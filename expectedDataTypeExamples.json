@@ -1,0 +1,27 @@
+[
+        {
+        "id": "f8016f8e3897cbd129ec0fde",
+        "type": "shirts",
+        "name": "NYXBE BRIGHT METROPOLIS",
+        "color": [
+                "yellow"
+            ],
+        "price": 44,
+        "manufacturer": "derp"
+    },
+
+
+
+   {
+        "code": 200,
+        "response": [
+            {
+                "id": "D9FE8BA212795CBA3914DD",
+                "DATAPAYLOAD": "<AVAILABILITY>\n  <INSTOCKVALUE>INSTOCK</INSTOCKVALUE>\n</AVAILABILITY>"
+            }
+        ]
+    } 
+
+
+]  
+

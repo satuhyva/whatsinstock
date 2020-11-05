@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/whatsinstock/static/js/main.5c207d1a.chunk.js",
+    "main.js.map": "/whatsinstock/static/js/main.5c207d1a.chunk.js.map",
+    "runtime-main.js": "/whatsinstock/static/js/runtime-main.ed93a4f5.js",
+    "runtime-main.js.map": "/whatsinstock/static/js/runtime-main.ed93a4f5.js.map",
+    "static/js/2.55d2785b.chunk.js": "/whatsinstock/static/js/2.55d2785b.chunk.js",
+    "static/js/2.55d2785b.chunk.js.map": "/whatsinstock/static/js/2.55d2785b.chunk.js.map",
+    "index.html": "/whatsinstock/index.html",
+    "static/js/2.55d2785b.chunk.js.LICENSE.txt": "/whatsinstock/static/js/2.55d2785b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed93a4f5.js",
+    "static/js/2.55d2785b.chunk.js",
+    "static/js/main.5c207d1a.chunk.js"
+  ]
+}
